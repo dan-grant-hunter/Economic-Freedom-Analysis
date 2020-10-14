@@ -112,8 +112,10 @@ This analysis was performed in October 2020 using the most recent data available
 * Use machine learning algorithms and feature engineering to try and predict a country's score in the future given its scores for different measures over the years.
 ## References and Additional Information
 #### EFI
-* Terry Miller, Anthony B. Kim, James M. Roberts (2020). Economic Freedom Index Dataset, published in 2020 Index   of Economic Freedom. The Heritage Foundation. www.heritage.org/index/download
+* Terry Miller, Anthony B. Kim, James M. Roberts (2020). Economic Freedom Index Dataset, published in 2020 Index   of Economic Freedom. The Heritage Foundation. www.heritage.org/index/download  
+
 *For more informationg regarding these datasets, visit - https://www.heritage.org/index/about*  
 #### EFW
-* James Gwartney, Robert Lawson, Joshua Hall, and Ryan Murphy (2020). Economic Freedom Dataset, published in Economic Freedom of the World: 2020 Annual Report. Fraser Institute. www.fraserinstitute.org/economic-freedom/dataset
+* James Gwartney, Robert Lawson, Joshua Hall, and Ryan Murphy (2020). Economic Freedom Dataset, published in Economic Freedom of the World: 2020 Annual Report. Fraser Institute. www.fraserinstitute.org/economic-freedom/dataset  
+
 *For more information regarding this dataset, visit - https://www.fraserinstitute.org/studies/economic-freedom-of-the-world-2020-annual-report*
