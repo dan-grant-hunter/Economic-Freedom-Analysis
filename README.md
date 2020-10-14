@@ -1,7 +1,7 @@
 # Economic Freedom Analysis
 
 ## Overview 
-Cleaned and compared data from different years of the Economic Freedom Index (EFI) with each other as well as with data from the Economic Freedom of the World (EFW) dataset to see if there were any interesting trends or patterns we could identify.
+Compared data from different years of the Economic Freedom Index (EFI) with each other as well as with data from the Economic Freedom of the World (EFW) dataset to see if there were any interesting trends or patterns we could identify.
  
 ## Summary of Findings
 * Singapore now occupies the top spot as measured in the EFI 2020 dataset with Hong Kong slipping down to second place. This is an important observation as not only did Hong Kong score its highest in 2018 since the financial crash as well as rank first from 1995 in the EFI but also, as the authors of the EFW state:
