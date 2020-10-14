@@ -1,4 +1,6 @@
-# Economic Freedom Analysis: Project Overview 
+# Economic Freedom Analysis
+
+## Overview 
 Cleaned and compared data from different years of the Economic Freedom Index (EFI) with each other as well as with data from the Economic Freedom of the World (EFW) dataset to see if there were any interesting trends or patterns we could identify.
  
 ## Summary of Findings
